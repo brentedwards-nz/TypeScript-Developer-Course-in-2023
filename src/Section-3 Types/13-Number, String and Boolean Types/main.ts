@@ -6,4 +6,4 @@ console.log(`Number, String and Boolean Types`);
 console.log(`*** myNumber: ${myNumber}`);
 console.log(`*** myBool: ${myBool}`);
 console.log(`*** myString: ${myString}`);
-console.log(``);
+console.log();

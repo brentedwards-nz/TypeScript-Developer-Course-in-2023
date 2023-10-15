@@ -1,2 +1,2 @@
 clear
-npm run compile
+npx tsc -w
